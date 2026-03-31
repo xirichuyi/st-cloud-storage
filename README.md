@@ -220,4 +220,4 @@ server {
 
 ## 开源协议
 
-MIT
+MIT  https://linux.do/
