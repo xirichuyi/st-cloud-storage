@@ -1,0 +1,27 @@
+{
+  "name": "ST Cloud Storage",
+  "short_name": "ST",
+  "description": "Personal cloud storage",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f9f9fb",
+  "theme_color": "#2d3338",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/apple-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    },
+    {
+      "src": "/logo.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}

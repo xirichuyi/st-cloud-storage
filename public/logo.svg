@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="120" x2="120" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#E2E2E4"/>
+      <stop offset="100%" stop-color="#F0F0F2"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="120" height="120" rx="28" fill="url(#bg)"/>
+
+  <!-- Organic cloud shape -->
+  <path d="M38 80 C26 76, 30 62, 38 58 C32 50, 40 38, 52 40 C56 30, 72 28, 78 38 C88 34, 98 44, 92 56 C100 62, 94 76, 82 78 C86 84, 74 88, 66 82 C58 88, 44 86, 38 80Z"
+    fill="none" stroke="#2d3338" stroke-width="1.5" stroke-linecap="round" opacity="0.85"/>
+
+  <!-- Inner flowing wisp -->
+  <path d="M44 62 C50 56, 58 64, 66 58 C72 54, 78 60, 84 54" stroke="#596065" stroke-width="1" fill="none" stroke-linecap="round" opacity="0.4"/>
+
+  <!-- Single accent dot -->
+  <circle cx="60" cy="44" r="2.5" fill="#2d3338" opacity="0.7"/>
+</svg>
